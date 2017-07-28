@@ -1,3 +1,9 @@
+'''
+Given a list of integers and a single value, 
+return the first two values in order of 
+apperance that add up to form the value.
+'''
+
 import sys
 
 '''
